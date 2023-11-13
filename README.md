@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tartejbrothers&show_icons=true&theme=dark&title_color=ff781f&text_color=e8e8e8&locale=en" alt="tartejbrothers" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tartejbrothers&theme=dark" alt="tartejbrothers" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TartejBrothers"/></a>
