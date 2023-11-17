@@ -34,3 +34,5 @@
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TartejBrothers&theme=dark"/></a>
 </p>
+<p align="center"><img src="https://widgetbite.com/stats/TartejBrothers" alt="watching_count" />
+</p>
