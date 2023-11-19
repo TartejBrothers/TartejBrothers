@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Taranjeet Singh Bedi Here</h1>
-<h3 align="center">Web Developer and UI/ UX designer</h3>
+<h3 align="center">Web Developer and UI/UX designer</h3>
 
 - 🌱 I’m currently learning **Node JS, Kotlin**
 
