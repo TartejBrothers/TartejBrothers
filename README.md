@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Django, Frontend**
 
-- 📫 How to reach me [taranjeetsinghbedi2@gmail.com](**taranjeetsinghbedi2@gmail.com**)
+- 📫 Reach me at [taranjeetsinghbedi2@gmail.com](**taranjeetsinghbedi2@gmail.com**)
 <h3 align="left">About Me:</h3>
 
 <p>I am a self-driven and compassionate student who has keen interest in coding. I like to teach and learn new skills. I am very dedicated and prefer to complete all my tasks before time. I have up to the mark knowledge about Python. I am well versed with HTML and CSS and interested in Web Development.</p>
