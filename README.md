@@ -36,3 +36,7 @@
 </p>
 <p align="center"><img src="https://widgetbite.com/stats/TartejBrothers" alt="watching_count" />
 </p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TartejBrothers&bg_color=000000&color=a9a2a9&line=54c81e&point=ffffff&area=true&hide_border=true" alt="Contribution Count" />
+</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
