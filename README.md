@@ -34,10 +34,12 @@
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TartejBrothers&theme=dark"/></a>
 </p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tartejbrothers&theme=dark" alt="tartejbrothers" /></p>
 <p align="center"><img src="https://widgetbite.com/stats/TartejBrothers" alt="watching_count" />
 </p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TartejBrothers&theme=github-compact" alt="Contribution Count" />
 </p>
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
