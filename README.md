@@ -29,16 +29,16 @@
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tartejbrothers&show_icons=true&theme=dark&title_color=ff7820&text_color=e8e8e8&locale=en&layout=compact" alt="tartejbrothers" /></p>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tartejbrothers&show_icons=true&theme=dark&title_color=ff781f&text_color=e8e8e8&locale=en" alt="tartejbrothers" width="46%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tartejbrothers&show_icons=true&theme=dark&title_color=ff781f&text_color=e8e8e8&locale=en" alt="tartejbrothers" width="46%" />
 
-  <img align="right" src="https://streak-stats.demolab.com?user=TartejBrothers&theme=dark" width="48.5%"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=TartejBrothers&theme=dark" width="48.5%"/>
 </div>
 <br/>
-<p align="center" style="margin-top:30px;"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TartejBrothers&theme=github-compact" alt="Contribution Count" />
-</p>
 <div align="center" style="margin-top:30px">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tartejbrothers&theme=dark" alt="tartejbrothers" />
 </div>
+<p align="center" style="margin-top:30px;"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TartejBrothers&theme=github-compact" alt="Contribution Count" />
+</p>
 
 <p align="center"><img src="https://widgetbite.com/stats/TartejBrothers" alt="watching_count" />
 </p>
