@@ -44,4 +44,58 @@
 </p>
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 172.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 51 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 39 Public Repositories 
+ > 
+> 🔑 17 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+🌆 Daytime                446 commits         ████████████░░░░░░░░░░░░░   49.83 % 
+🌃 Evening                232 commits         ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+🌙 Night                  135 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Tuesday                  89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Wednesday                161 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Thursday                 157 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Saturday                 132 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Sunday                   105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+VS Code                  5 hrs 5 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     45 repos            ██████████░░░░░░░░░░░░░░░   38.14 % 
+JavaScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Python                   17 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+```
+
+
+
+
+ Last Updated on 06/01/2024 19:41:54 UTC
 <!--END_SECTION:waka-->
