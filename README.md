@@ -48,8 +48,6 @@
 
 > 📦 857.2 kB Used in GitHub's Storage 
  > 
-> 🏆 239 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 53 Public Repositories 
@@ -81,7 +79,7 @@ Sunday                   1559 commits        ███░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  16 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,5 +95,5 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2025 20:20:29 UTC
+ Last Updated on 09/02/2025 20:20:19 UTC
 <!--END_SECTION:waka-->
