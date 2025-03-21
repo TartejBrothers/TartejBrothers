@@ -42,7 +42,7 @@
 </p>
 <div align="center">
 <a href="https://monkeytype.com/profile/TartejBros">
-        <img src="https://raw.githubusercontent.com/TartejBrothers/TartejBrothers/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+        <img src="https://raw.githubusercontent.com/TartejBrothers/TartejBrothers/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
     </a>
 </div>
 <br/>
