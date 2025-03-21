@@ -34,12 +34,18 @@
   <img align="center" src="https://streak-stats.demolab.com?user=TartejBrothers&theme=dark" width="48.5%"/>
 </div>
 <br/>
+
 <div align="center" style="margin-top:30px">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tartejbrothers&theme=dark" alt="tartejbrothers" />
 </div>
 <p align="center" style="margin-top:30px;"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TartejBrothers&theme=github-compact" alt="Contribution Count" />
 </p>
-
+<div align="center">
+<a href="https://monkeytype.com/profile/TartejBros">
+        <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    </a>
+</div>
+<br/>
 <p align="center"><img src="https://widgetbite.com/stats/TartejBrothers" alt="watching_count" />
 </p>
 
