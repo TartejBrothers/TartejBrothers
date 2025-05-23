@@ -54,8 +54,6 @@
 
 > 📦 890.0 kB Used in GitHub's Storage 
  > 
-> 🏆 875 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 55 Public Repositories 
@@ -87,7 +85,7 @@ Sunday                   1953 commits        ███░░░░░░░░�
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,5 +101,5 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 20:25:49 UTC
+ Last Updated on 23/05/2025 20:25:17 UTC
 <!--END_SECTION:waka-->
