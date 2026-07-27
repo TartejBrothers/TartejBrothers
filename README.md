@@ -50,6 +50,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
@@ -90,6 +92,12 @@ Sunday                   2421 commits        ███░░░░░░░░�
 VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -103,5 +111,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 21:04:22 UTC
+ Last Updated on 27/07/2026 21:17:44 UTC
 <!--END_SECTION:waka-->
