@@ -50,7 +50,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,28 +89,28 @@ Sunday                   2421 commits        ███░░░░░░░░�
 
 ```text
 🔥 Editors: 
-Codex Vscode             47 mins             ██████████████████████░░░   89.95 % 
-VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Codex Vscode             52 mins             ███████████████████████░░   90.83 % 
+VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (89.95%)
+⏱ AI Coding Time: 52 mins (90.83%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 156,994 Input Tokens, 9,220 Output Tokens
+🔤 117,212 Input Tokens, 6,729 Output Tokens
 
-💵 $0.66 Estimated AI Cost This Week
+💵 $0.51 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 26 AI Prompts
+🧠 8 AI Sessions, 23 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 300 characters per prompt
+📝 Concise Prompter — average 287 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -128,5 +128,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 22:15:39 UTC
+ Last Updated on 05/09/2026 22:02:59 UTC
 <!--END_SECTION:waka-->
