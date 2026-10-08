@@ -50,7 +50,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2025%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,30 +89,30 @@ Sunday                   2421 commits        ███░░░░░░░░�
 
 ```text
 🔥 Editors: 
-Codex Vscode             20 mins             █████████████████░░░░░░░░   68.87 % 
-VS Code                  9 mins              ████████░░░░░░░░░░░░░░░░░   31.13 % 
+VS Code                  1 hr 38 mins        ████████████████░░░░░░░░░   64.72 % 
+Codex Vscode             53 mins             █████████░░░░░░░░░░░░░░░░   35.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (97.84%)
+⏱ AI Coding Time: 1 hr 38 mins (64.47%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 20 lines written by AI, 101 lines written by hand (16.53% AI-written)
 
-🔤 36,853 Input Tokens, 2,296 Output Tokens
+🔤 133,438 Input Tokens, 5,680 Output Tokens
 
-💵 $0.01 Estimated AI Cost This Week
+💵 $0.03 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 6 AI Sessions, 28 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      20 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 100 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 16.53% of written lines came from AI
+📝 Concise Prompter — average 184 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 88.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,5 +128,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 23:42:21 UTC
+ Last Updated on 08/10/2026 00:08:05 UTC
 <!--END_SECTION:waka-->
