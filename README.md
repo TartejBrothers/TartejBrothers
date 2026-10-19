@@ -89,30 +89,30 @@ Sunday                   2422 commits        ███░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  2 hrs 21 mins       ██████████████░░░░░░░░░░░   55.97 % 
-Codex Vscode             1 hr 50 mins        ███████████░░░░░░░░░░░░░░   44.03 % 
+Codex Vscode             1 hr 13 mins        ████████████████░░░░░░░░░   62.79 % 
+VS Code                  43 mins             █████████░░░░░░░░░░░░░░░░   37.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (51.81%)
+⏱ AI Coding Time: 1 hr 22 mins (70.48%)
 
-✍️ 572 lines written by AI, 311 lines written by hand (64.78% AI-written)
+✍️ 572 lines written by AI, 37 lines written by hand (93.92% AI-written)
 
-🔤 248,059 Input Tokens, 30,793 Output Tokens
+🔤 209,155 Input Tokens, 19,371 Output Tokens
 
-💵 $0.09 Estimated AI Cost This Week
+💵 $0.07 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 65 AI Prompts
+🧠 8 AI Sessions, 37 AI Prompts
 
 GPT                      573 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.78% of written lines came from AI
-📚 Verbose Prompter — average 2,174 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 56.72% of changed lines were hand-edited
+🤖 AI-Driven — 93.92% of written lines came from AI
+📝 Concise Prompter — average 113 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 8.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,5 +128,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 22:21:15 UTC
+ Last Updated on 19/10/2026 23:28:04 UTC
 <!--END_SECTION:waka-->
