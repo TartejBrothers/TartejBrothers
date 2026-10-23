@@ -50,7 +50,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2015%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,30 +89,30 @@ Sunday                   2422 commits        ███░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  33 mins             ██████████████░░░░░░░░░░░   56.97 % 
-Codex Vscode             25 mins             ███████████░░░░░░░░░░░░░░   43.03 % 
+VS Code                  21 mins             █████████████████████████   99.81 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (54.87%)
+⏱ AI Coding Time: 14 mins (65.99%)
 
-✍️ 515 lines written by AI, 37 lines written by hand (93.3% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 49,380 Input Tokens, 10,075 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.04 Estimated AI Cost This Week
+💵 $0.03 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-GPT                      516 lines           █████████████████████████   100.00 % 
+GPT                      280 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.3% of written lines came from AI
-📝 Concise Prompter — average 239 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 9.15% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 63 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,5 +128,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 23:06:47 UTC
+ Last Updated on 23/10/2026 23:04:00 UTC
 <!--END_SECTION:waka-->
